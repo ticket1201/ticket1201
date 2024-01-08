@@ -1,4 +1,4 @@
-## I'm Anton Metlitsky, a frontend developer 👨‍💻
+## I'm Anton Metlitsky, frontend developer 👨‍💻
 
 - 🔭 I’m currently working on projects based on React
 - 🌱 I’m currently learning React Native and Express, Node.js
