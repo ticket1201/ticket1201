@@ -1,8 +1,7 @@
 ## I'm Anton Metlitsky, frontend developer 👨‍💻
 
-- 🔭 I’m currently working on projects based on React
-- 🌱 I’m currently learning React Native and Express, Node.js
-- 💻 All of my projects are available at  <a href="https://metlitsky.com" target="_blank">metlitsky.com</a>
+- 🔭 I’m currently working on projects based on Next.js
+- 🌱 I’m currently learning Express, Nest.js
 - 📫 How to reach me 🔽
 
 <div align="left" style="margin-left: 15px">
