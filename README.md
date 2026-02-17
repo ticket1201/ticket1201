@@ -1,7 +1,6 @@
 ## I'm Anton Metlitsky, frontend developer 👨‍💻
 
-- 🔭 I’m currently working on projects based on Next.js
-- 🌱 I’m currently learning Express, Nest.js
+- 🔭 I’m currently working on projects based on Next.js, Express
 - 📫 How to reach me 🔽
 
 <div align="left" style="margin-left: 15px">
