@@ -7,10 +7,10 @@
   <a href="https://t.me/followticket" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
   </a>
-  <a href="mailto:anton@metlitsky.com" target="_blank">
+  <a href="mailto:ticket1201@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/>
   </a>
-  <a href="https://linkedin.com/in/anton-metlitsky-3568a113a" target="_blank">
+  <a href="https://linkedin.com/in/anton-miatlitski" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
   </a>  
 </div>
