@@ -1,4 +1,4 @@
-## I'm Anton Metlitsky, frontend developer 👨‍💻
+## I'm Anton Metlitsky, fullstack developer 👨‍💻
 
 - 🔭 I’m currently working on projects based on Next.js, Express
 - 📫 How to reach me 🔽
